@@ -1,10 +1,8 @@
 # Apprendre Kubernetes et passer la certification CKA
 
-## Sommaire :
-[Être certifié CKA] 
-1. La certification Kubernetes CKA
-- la certification
-- le cours Udemy
+## Sommaire de la série de vidéo [Être certifié CKA] :
+1. Passer la certification Kubernetes CKA
+
 2. Présentation de Kubernetes, de la CNCF
 3. Load Balancers
 4. Les conteneurs et microservices
@@ -30,15 +28,21 @@
 21. jsonpath et custom-columns
 22. Les questions difficiles : ETCD (backup)
 
-## Kubernetes to Code
-1. CRD
+
+## 1. Passer la certification Kubernetes CKA
+- la certification
+- le cours Udemy
+
+## 2. Présentation de Kubernetes, de la CNCF
+## 3. Load Balancers
+## 4. Les conteneurs et microservices
+- Docker, Dockerfile
+- YAML
 
 
 
 
 
 
-
-## 1. Qu'est ce qu'un cluster
 
 
