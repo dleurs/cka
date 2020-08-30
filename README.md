@@ -1,10 +1,10 @@
 # Apprendre Kubernetes et passer la certification CKA
 
-## Sommaire de la série de vidéo [Être certifié CKA] :
+## Sommaire de la série de vidéo - Kubernetes CKA :
 
-1. Passer la certification Kubernetes CKA
+1. Comment avoir la certification CKA ?
 2. Présentation de Kubernetes, de la CNCF
-3. Load Balancers
+3. Comprendre ce qu'est un cluster
 4. Les conteneurs et microservices
 5. La base ce k8s : Node et Pod
 6. Deployment et services
