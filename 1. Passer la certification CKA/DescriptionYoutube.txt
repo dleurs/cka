@@ -1,3 +1,5 @@
+CKA : https://www.cncf.io/certification/cka/
+Kubernetes : https://kubernetes.io/
 Cours Udemy CKA : https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
 Cours OpenClassroom Terminal : https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-terminal
 Vidéo Serveur - Cookie Connecté : https://www.youtube.com/watch?v=CIhalbnBgA4
