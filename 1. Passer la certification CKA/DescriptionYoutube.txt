@@ -1,0 +1,5 @@
+Cours Udemy CKA : https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
+Cours OpenClassroom Terminal : https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-terminal
+Vidéo Serveur - Cookie Connecté : https://www.youtube.com/watch?v=CIhalbnBgA4
+Vidéo Vim - cocadmin : https://www.youtube.com/watch?v=JinFsXrOHao
+Playlist Kubernetes Xavki : https://www.youtube.com/watch?v=37VLg7mlHu8&list=PLn6POgpklwWqfzaosSgX2XEKpse5VY2v5 
