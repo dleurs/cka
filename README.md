@@ -1,17 +1,14 @@
 # Apprendre Kubernetes et passer la certification CKA
 
 ## Sommaire de la série de vidéo [Être certifié CKA] :
-1. Passer la certification Kubernetes CKA
 
+1. Passer la certification Kubernetes CKA
 2. Présentation de Kubernetes, de la CNCF
 3. Load Balancers
 4. Les conteneurs et microservices
-- Docker, Dockerfile
-- YAML
 5. La base ce k8s : Node et Pod
 6. Deployment et services
 7. kubectl
-- kubectl config
 8. Env variables, labels, et Rolling update, multi container pod. 
 9. Le principe de répétition de Kubernetes
 10. StatefulSet, DaemonSet, Job
